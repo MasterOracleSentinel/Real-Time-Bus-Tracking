@@ -16,10 +16,10 @@ To be more specific, we used the MBTA bus data to determine stops between Harvar
 highlight the bus routes. 
 
 How?
-(1) I created a Mapbox account and get the access token 
-(2) I then added the access token to the mapboxgl instance
- defined in the mapanimation.js
-(3) Lastly, I created a marker and add it to the map using the 
+* (1) I created a Mapbox account and used the access token; 
+* (2) I then added that access token to the mapboxgl instance
+ defined in the mapanimation.js file; and 
+* (3) Lastly, I created a marker and added it to the map using the 
 mapboxgl pre-built functions
  
  The function move() is called when the button 
