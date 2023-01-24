@@ -30,21 +30,21 @@ mapboxgl pre-built functions
  the next on the map. 
  
  Installation: //opensourse //
-25
+
 ​
-26
+
     Usage: these files can be used to teach DOM, js manipuation, and mapbox
-27
+
 ​
-28
+
     Support: TBA
-29
+
 ​
-30
+
     Roadmap: TBA 
-31
+
     
-32
+
     License information: MIT License
 
 Copyright (c) [2022-2023] [K. Artis-Mickens]
