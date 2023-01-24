@@ -1,8 +1,6 @@
 # Real-Time Bus Tracking Exercise
 
-This web page is an example of how to use JavaScript to 
-(1) render a map on a web page and (2) build and manipulate 
-maps on web pages.  
+## This web page is an example of how to use JavaScript to (1) render a map on a web page and (2) build and manipulate maps on web pages.  
 
 It's a good way to work with the DOM in JavaScript
 
