@@ -1,12 +1,12 @@
 <img src= "map.png" width='300' />
 
-# Real-Time Bus Tracking Exercise
+# Name: Real-Time Bus Tracking Exercise
 
 ## This web page is an example of how to use JavaScript to (1) render a map on a web page and (2) build and manipulate maps on web pages.  
 
 It's a good way to work with the DOM in JavaScript
 
-Adding animation to maps, mapbox is an open-source platform 
+Description: Adding animation to maps, mapbox is an open-source platform 
 that allows a user to create and display maps on a web page. 
 The mapboxgl JavaScript library is part of the Mapbox ecosystem. 
 It allows a user to add all sorts of customizations to the map.
